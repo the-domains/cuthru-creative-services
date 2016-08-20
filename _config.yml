@@ -1,19 +1,4 @@
-name: Cuthru Creative Services
-favicon: null
-layout_spectrum: 0.1795874407980591
 typography_spectrum: 0.030145953875035048
-cta:
-  domain: null
-  bucket: null
-  version: null
-analytics:
-  google: null
-  facebook: null
-  twitter: null
-opengraph:
-  image: null
-  type: null
-  appId: null
 color:
   brandColors:
     - '#ADD7F6'
@@ -25,4 +10,20 @@ color:
   lightness: 0.07446223357692361
   saturation: 0.401803539134562
   rhythmicContrast: 0.3741218198556453
+opengraph:
+  image: null
+  type: null
+  appId: null
+layout_spectrum: 0.1795874407980591
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+name: Cuthru Creative Services
+cta:
+  domain: null
+  bucket: null
+  version: null
+favicon: null
+description: wellwellwell
 purpose: []
