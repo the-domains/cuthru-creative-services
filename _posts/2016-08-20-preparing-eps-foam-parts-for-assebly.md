@@ -1,17 +1,15 @@
 ---
-datePublished: '2016-08-20T08:59:49.775Z'
+datePublished: '2016-08-20T09:03:03.724Z'
 author:
   - name: ''
 via: {}
-dateModified: '2016-08-20T08:57:08.276Z'
+dateModified: '2016-08-20T09:03:03.379Z'
 title: ''
 publisher: {}
 description: preparing EPS foam parts for assebly
-starred: false
 sourcePath: _posts/2016-08-20-preparing-eps-foam-parts-for-assebly.md
-inFeed: true
 hasPage: true
-inNav: false
+starred: false
 url: preparing-eps-foam-parts-for-assebly/index.html
 _context: 'http://schema.org'
 _type: Article
