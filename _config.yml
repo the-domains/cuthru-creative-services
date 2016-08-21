@@ -19,6 +19,10 @@ analytics:
   google: null
   facebook: null
   twitter: null
+author:
+  name: David Battaglia
+  email: info@davidbattaglia.com
+  url: davidbattaglia.com
 name: CUTHRU
 cta:
   domain: null
